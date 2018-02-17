@@ -1,5 +1,6 @@
 # Defense of Wall Street: We are the 1%
 Written by Jonathan Wong, Drew Mulock, Bret Schofield
+December 4, 2011
 
 ## Introduction
 
@@ -31,7 +32,7 @@ Repressor periodically pushes any passing protesters backwards, and the Tax Retu
 deals damage to any protesters who walk over it. A strategic player will combine these for
 maximum efficiency and protester control.
 
-Figure 1.1 (^) Return, while the Repressor ahead allows its adjacent IDM to have two shots in addition to it displacing the protesters.– A player has set two Repressors to push protesters in succession into a Tax Return, maximizing slow and damage from the Tax
+![](pictures/fig2.png "Figure 1.1 (^) Return, while the Repressor ahead allows its adjacent IDM to have two shots in addition to it displacing the protesters.– A player has set two Repressors to push protesters in succession into a Tax Return, maximizing slow and damage from the Tax")
 
 
 ### Asset Creation
@@ -74,9 +75,12 @@ A grapple hook mechanic has been implemented for Nameless. By highlighting a gra
 location (figure 1.2), the player is able to press R (figure 1.3), and reach the destination (figure
 1.4).
 
-Figure 1.2 – The grapple location has been highlighted Figure 1.3 – The player is latched on and moving toward the location
 
-Figure 1.4 – The player has reached the location
+![](pictures/fig3.png "Figure 1.2 – The grapple location has been highlighted")
+
+![](pictures/fig4.png "Figure 1.3 – The player is latched on and moving toward the location")
+
+![](pictures/fig5.png "Figure 1.4 – The player has reached the location")
 
 
 Unfortunately, the created asset for the grapple hook was not implemented, and so there is no
@@ -99,11 +103,9 @@ There are assets which have been created but not implemented. These are explaine
 section, but include a grapple hook (figure 1.5) and a scanner gun, both of which were intended
 for Nameless.
 
-```
-Figure 1.5 – The grapple hook gun that was unfortunately not implemented due to difficulties implementing rope.
-```
+![](pictures/fig6.png "Figure 1.5 – The grapple hook gun that was unfortunately not used due to difficulties implementing rope.")
 
-## Lessons Learned............................................................................................................................................
+## Lessons Learned
 
 One lesson learned by JDB Inc. is the importance of planning. It would have been helpful to set
 strict deadlines for certain tasks to be completed, and to appropriately plan around the deadlines
