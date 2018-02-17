@@ -23,7 +23,7 @@ many waves of enemies. The transformable blocks allow the player to aim at and t
 blocks into towers for currency. An interesting feature, demonstrated in figure 1.0, is the
 highlighting of these transformable blocks when aimed upon by the crosshair.
 
-
+[Figure 1.0](pictures/fig1.png)
 ```
 Figure 1.0 – In the upper left-hand corner of the screen, the player’s currency is displayed, and upon clicking on a transformable building block, a
 menu appears to select a tower for purchase.
