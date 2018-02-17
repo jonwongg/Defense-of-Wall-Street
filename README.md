@@ -1,5 +1,6 @@
 # Defense of Wall Street: We are the 1%
-Written by Jonathan Wong, Drew Mulock, Bret Schofield
+Written by Jon Wong, Drew Mulock, Bret Schofield
+
 December 4, 2011
 
 ## Introduction
